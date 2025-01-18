@@ -1,6 +1,7 @@
 # Documentation
 
-This documentation is built with the [Mkdocs](https://www.mkdocs.org/) static site generator.
+This documentation is built with the [Mkdocs](https://www![Uploading 1000104712.jpg…]()
+.mkdocs.org/) static site generator.
 
 ## Docs Setup
 
